@@ -1,0 +1,17 @@
+1-Tema do projeto
+Blog
+
+2-Ideia do projeto
+Blog de Culinária - Viagem / Pesquisa  
+
+3-Nome do projeto
+Sabores e Paisagens
+
+4-Breve descrição sobre o projeto
+
+
+5-Jornada do usuário (os pelo menos 5 6-layouts que serão feitos para entrega no dia 17/10)
+
+Home - culinárias – destinos - programe sua viagem - avaliação para os próximos- contato 
+
+6-Criação do repositório e compartilhamento com os demais integrantes do grupo, inclusive eu.
