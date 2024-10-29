@@ -1,0 +1,22 @@
+.program-trip-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6rem;
+  margin-bottom: 4rem;
+}
+
+.min-card-height {
+  min-height: 30rem;
+}
+
+.program-trip-card-content {
+  text-align: center;
+}
+
+.trip-guide-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4rem;
+  align-content: center;
+  justify-items: center;
+}
