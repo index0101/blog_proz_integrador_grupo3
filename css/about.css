@@ -1,0 +1,84 @@
+.about-section {
+  margin-bottom: 4rem;
+}
+
+.about-project {
+  background: #593493;
+  border-radius: 2rem;
+  overflow: hidden;
+
+  display: flex;
+  align-items: center;
+  gap: 2.6rem;
+}
+
+.about-content-box {
+  max-width: 58rem;
+
+  position: relative;
+}
+
+.about-content {
+  color: #fff;
+  font-size: 2.2rem;
+  line-height: 1.4;
+}
+
+.about-img-small-box {
+  position: absolute;
+  right: -11rem;
+  bottom: -14rem;
+}
+
+.align-text-center {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.profile-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8rem;
+  justify-items: center;
+  margin-bottom: 4rem;
+}
+
+.profile-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+
+  background-color: #fff;
+  border-radius: 0.8rem;
+  overflow: hidden;
+  border: var(--black-border);
+  box-shadow: var(--box-shadow);
+  max-width: 25rem;
+
+  padding: 2rem 4rem;
+}
+
+.profile-picture {
+  height: 20rem;
+  width: 20rem;
+}
+
+.profile-bg {
+  background-color: #ccc;
+  border-radius: 500rem;
+}
+
+.profile-picture img {
+  height: 100%;
+  width: auto;
+  border-radius: 500rem;
+}
+
+.profile-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
